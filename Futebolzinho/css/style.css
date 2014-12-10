@@ -1,0 +1,78 @@
+#imagem{
+background:url(images/campo.png);
+}
+
+#level{
+COLOR:black;
+}
+#inputArea{
+	padding: 20px;
+	padding-bottom: 5px;
+	color:#FF6600;
+}
+
+#inputArea form p {
+	text-align: center;
+	margin-bottom: 10px;
+	
+}
+
+section article {
+	padding: 20px;
+	padding-top: 5px;
+}
+
+section article header {
+	text-align: center;
+}
+
+#btDelete {
+	position: absolute;
+	right:20px;
+	color:black;
+	}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+#left{
+	position:relative;
+	width: 140px;
+	height: 200px;
+	float: left;
+	color:black;
+		}
+
+#right{
+	position:relative;
+	width: 140px;
+	height: 200px;
+	float: left;	
+color:black;
+	}
+
+#left p{
+	font-size: 15px;
+	color:black;
+		}
+
+
+#right p{
+	font-size: 15px;
+	color:black;
+	}
+
+#list{
+	width: 300px;
+}
+
+#botao_list{
+position:absolute;
+left:2px;
+margin:0px;
+padding:0px;
+float: left;
+}
+

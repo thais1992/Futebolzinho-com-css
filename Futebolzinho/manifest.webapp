@@ -1,0 +1,17 @@
+{
+  "version": "1",
+  "name": "Futebolzinho",
+  "launch_path": "/index.html",
+  "description": "Aplicativo para gerar times aleatorios",
+  "icons": {
+    "128": "/images/player.png"
+  },
+  "developer": {
+    "name": "Thais Ferreira",
+    "url": "http://thais1992.github.io"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "pt-br"
+}

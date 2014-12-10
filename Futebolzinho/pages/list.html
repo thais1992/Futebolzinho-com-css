@@ -1,0 +1,26 @@
+<section role="region" class="vbox fit">
+	<header>
+		<h1>Futebolzinho</h1>
+	</header>
+<body><div id="imagem">
+	<section id="inputArea">
+		<div id="list">
+			<div id="left">
+				<h3>Time A</h3>
+				<p ng-repeat="playerA in listTeamA track by $index">{{playerA.name}}</p>
+			</div>
+			<div id="right">
+				<h3>Time B</h3>
+				<p ng-repeat="playerB in listTeamB track by $index">{{playerB.name}}</p>
+			</div>
+		</div>
+	</section>
+	
+	</br></br></br></br></br></br>
+	
+	<footer id="footer_list" class="gaia-footer">
+		<button id="botao_list" ng-click="back()">Voltar</button>
+	</footer>
+	</body>
+	</div>
+</section>
